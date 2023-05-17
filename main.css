@@ -129,6 +129,7 @@ form button {
     color: #ecf0f1;
     border: none;
     cursor: pointer;
+    width: 320px;
 }
 
 form button:hover {
